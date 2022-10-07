@@ -1,0 +1,30 @@
+{
+  "login": {
+    "validUsername": "standard_user",
+    "password": "secret_sauce",
+    "wrongPassword": "123456",
+    "lockedUsername": "locked_out_user"
+  }, 
+
+  "messages": {
+    "requiredUsername": "Epic sadface: Username is required",
+    "requiredPassword": "Epic sadface: Password is required",
+    "wrongPassword": "Epic sadface: Username and password do not match any user in this service",
+    "requiredFirstName": "Error: First Name is required",
+    "requiredLastName": "Error: Last Name is required",
+    "requiredZipCode": "Error: Postal Code is required",
+    "thankYouTitle": "THANK YOU FOR YOUR ORDER",
+    "thankYouDesc": "Your order has been dispatched, and will arrive just as fast as the pony can get there!"
+  },
+
+  "inventory": {
+    "productName": "Sauce Labs Backpack",
+    "removeBtnTxt": "Remove"
+  },
+
+  "checkout": {
+    "firstName": "Cuong",
+    "lastName": "Nguyen",
+    "zip": "70000"
+  }
+}
