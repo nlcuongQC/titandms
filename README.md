@@ -11,4 +11,4 @@ QA Development Challenge
 3. Run `npm run runner` to open cypress with Chrome or `npx cypress open` to choose browser
 4. select `e2e` if you are running it for the first time 
 5. select chrome browser to run scripts
-6. Run `npn run test` to run headless and generate the report in `cypress/reports`
+6. Run `npm run test` to run headless and generate the report in `cypress/reports`
